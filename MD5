@@ -1,0 +1,12 @@
+89db75dd9c306f8bcd08d636ab7a8303 *DESCRIPTION
+58af2a71951aac4b1a45087de3af618a *NAMESPACE
+6eb7decccf28f848b9257fd0322a555b *R/anyLib.R
+eeb61f1f9fa2655ac5039157bd06666b *build/vignette.rds
+387a738160cb5ad3aada77a34b35428a *inst/doc/help.R
+678fdceb835abf835af0259cc0b46a0d *inst/doc/help.Rmd
+d2624ddcc95c370c5fb97f4bfe47f166 *inst/doc/help.html
+3325f86e1606b7e1df7ccc00712e7ee5 *inst/dummyPackage_0.1.0.tar.gz
+f7a811fc20f122b7d229ce1b1ac7d052 *man/anyLib.Rd
+97288f06b578dc3f2d8597b4f5ad04fc *tests/testthat.R
+cc81226b7aedd53b41d6bc0201a91724 *tests/testthat/test-anyLib.R
+678fdceb835abf835af0259cc0b46a0d *vignettes/help.Rmd
